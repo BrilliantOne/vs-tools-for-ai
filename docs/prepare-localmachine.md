@@ -176,7 +176,7 @@ Briefly, to install CNTK Python package, run the following command in a terminal
         ```
 
 To install CNTK BrainScript package, run the following command in a terminal:
-- Visit [here](https://github.com/Microsoft/CNTK/releases/tag/v2.3.1) to download the CPU-only or GPU package.
+- Visit [here](https://github.com/Microsoft/CNTK/releases/tag/v2.3) to download the CPU-only or GPU package.
 
 - **Windows**
     - Decompress the zip file to "%AppData%\Roaming\Microsoft\ToolsForAI\RuntimeSDK". Please create this folder if it does not exist.
